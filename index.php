@@ -1,5 +1,4 @@
 <?php
-	echo "Hi";
 	include_once 'includes/class.inc.php';
     include_once "theme/".$config['skin']."/content/head.php";
     if(isset($_GET['logout']))
