@@ -1,0 +1,17 @@
+Hi Tom en Mike,
+
+De volgende commands moet je eventjes uitvoeren:
+
+1. git add *
+2. git commit -a
+3. Typ dan Test ofzoiets en dan doe dan ESC en doe dan :wq typen.
+4. git push
+
+Wil je de status weten doe dan:
+git status
+
+Wil je graag naar een andere map gaan dan moet je werken met cd.
+- Standaard: cd C:/inetpub/wwwroot/Azure/
+
+Wil je de laatste update doe dan gewoon zorgen dat je in de goede folder zit en doe dan:
+git pull
